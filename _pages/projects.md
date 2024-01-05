@@ -10,7 +10,7 @@ nav_order: 1
 
 <p> <b>IN PROGRESS</b>
 
-<p>- <em><a href="https://site.unibo.it/smooth/en/agenda/https-www-aere-org-aere-summer-conference/aere_2022_campiglio.pdf/@@download/file/AERE_2022_Campiglio.pdf">The Network Effects of Carbon Pricing</a></em> (with <a href="https://sites.google.com/site/ecampiglio/">Emanuele Campiglio</a> and <a href="https://research.wu.ac.at/en/persons/stefan-trsek-3">Stefan Trsek</a>)
+<p>- <em><a href="https://site.unibo.it/smooth/en/agenda/https-www-aere-org-aere-summer-conference/aere_2022_campiglio.pdf/@@download/file/AERE_2022_Campiglio.pdf">The Network Effects of Carbon Pricing</a></em> (with <a href="https://sites.google.com/site/ecampiglio/">E. Campiglio</a> and <a href="https://research.wu.ac.at/en/persons/stefan-trsek-3">S. Trsek</a>)
 
 <br>
 
