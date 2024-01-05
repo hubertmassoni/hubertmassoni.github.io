@@ -2,9 +2,9 @@
 layout: page
 permalink: /cv/
 title: cv
-description:
+description: 
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 <div class="projects">
 
