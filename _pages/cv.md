@@ -1,11 +1,11 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
+description:
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+<div class="projects">
+
+You can download my cv <a href="https://hubertmassoni.github.io/CV_Hubert_Massoni.pdf">here</a>.
