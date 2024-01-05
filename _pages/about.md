@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my academic website! 
 
-I am a 3rd year PhD student in Economics at the University of Bologna, under the supervision of Profs. [Emanuele Campiglio](https://sites.google.com/site/ecampiglio/) and [Bruno Conte](https://brunoconteleite.github.io/)
+I am a 3rd year PhD student in Economics at the University of Bologna, under the supervision of Profs. [Emanuele Campiglio](https://sites.google.com/site/ecampiglio/) and [Bruno Conte](https://brunoconteleite.github.io/).
 
 My research is about Trade, Climate Change, and Production Networks.
