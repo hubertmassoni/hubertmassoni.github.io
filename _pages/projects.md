@@ -16,9 +16,9 @@ nav_order: 1
 
 <p>- <em>Climate Trade Costs</em>
 
-<p> <b>POLICY WORK</b>
+<br>
 
-<div class="publications">
+<p> <b>POLICY WORK</b>
 
 <p>- <a href="https://so03.tci-thaijo.org/index.php/mekongjournal/article/view/260459">Fostering Cross-border Twin Cities in the Greater Mekong Subregion</a>. (2022) <b><i>Journal of Mekong Societies, 18(1)</i></b>, 125–153 
   (with M. Abe)
