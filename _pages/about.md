@@ -24,3 +24,9 @@ Welcome to my academic website!
 I am a 3rd year PhD student in Economics at the University of Bologna, under the supervision of Profs. [Emanuele Campiglio](https://sites.google.com/site/ecampiglio/) and [Bruno Conte](https://brunoconteleite.github.io/).
 
 My research is about Trade, Climate Change, and Production Networks.
+
+<br>
+
+Contacts: 
+- email: hubert.massoni2@unibo.it
+- twitter (X): [@MubertMassoni](https://twitter.com/HubertMassoni)
