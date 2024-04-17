@@ -34,8 +34,7 @@ nav_order: 1
 
 <p> <b>POLICY WORK</b>
 
-Fostering Cross-border Twin Cities in the Greater Mekong Subregion. (2022) <b><i>Journal of Mekong Societies, 18(1)</i></b>, 125–153 
-  (with M. Abe)
+Fostering Cross-border Twin Cities in the Greater Mekong Subregion. (2022) <b><em>Journal of Mekong Societies, 18(1)</em></b>, 125–153 (with M. Abe)
   
 <br>
 
