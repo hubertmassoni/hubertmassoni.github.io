@@ -29,4 +29,4 @@ My research is about Trade, Climate Change, and Production Networks.
 
 Contacts: 
 - email: hubert.massoni2@unibo.it
-- twitter (X): [@MubertMassoni](https://twitter.com/HubertMassoni)
+- twitter (X): [@HubertMassoni](https://twitter.com/HubertMassoni)
