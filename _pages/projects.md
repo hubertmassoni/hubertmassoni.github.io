@@ -22,9 +22,11 @@ nav_order: 1
 
 <br><font size="-1"> <a href="https://site.unibo.it/smooth/en/agenda/https-www-aere-org-aere-summer-conference/aere_2022_campiglio.pdf/@@download/file/AERE_2022_Campiglio.pdf">slides</a> | latest version </font>
 
+<br>
+
 <p> <b>POLICY WORK</b>
 
-<p>Fostering Cross-border Twin Cities in the Greater Mekong Subregion. (2022) <b><em>Journal of Mekong Societies, 18(1)</em></b>, 125–153 (with M. Abe)
+<p>Fostering Cross-border Twin Cities in the Greater Mekong Subregion. (2022) <em>Journal of Mekong Societies, 18(1)</em>, 125–153 (with M. Abe)
   
 <br>
 
