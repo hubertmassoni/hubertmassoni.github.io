@@ -20,7 +20,7 @@ nav_order: 1
 
 
 
-<br><font size="-1"> <a href="https://site.unibo.it/smooth/en/agenda/https-www-aere-org-aere-summer-conference/aere_2022_campiglio.pdf/@@download/file/AERE_2022_Campiglio.pdf">slides</a> | latest version </font>
+[<br><font size="-1"> <a href="https://site.unibo.it/smooth/en/agenda/https-www-aere-org-aere-summer-conference/aere_2022_campiglio.pdf/@@download/file/AERE_2022_Campiglio.pdf">slides</a> | latest version </font>]
 
 <br>
 
@@ -32,4 +32,4 @@ nav_order: 1
   
 <br>
 
-<font size="-1"><a href="https://so03.tci-thaijo.org/index.php/mekongjournal/article/view/260459">published version</a></font>
+[<font size="-1"><a href="https://so03.tci-thaijo.org/index.php/mekongjournal/article/view/260459">published version</a></font>]
