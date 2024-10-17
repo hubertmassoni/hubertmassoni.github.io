@@ -25,8 +25,6 @@ I am a 3rd year PhD student in Economics at the University of Bologna, under the
 
 My research is about Trade, Climate Change, and Production Networks.
 
-Currently visiting the CREI in Barcelona (hosted by Prof. [Dávid Nagy](https://sites.google.com/site/davidknagy/)).
-
 <br>
 
 Contact
