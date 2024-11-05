@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Bologna, Department of Economics
+subtitle: University of Bologna, [Department of Economics](https://dse.unibo.it/en/index.html)
 
 profile:
   align: right
@@ -28,5 +28,6 @@ My research is about Trade, Climate Change, and Production Networks.
 <br>
 
 Contact
-- email: hubert.massoni2@unibo.it
-- twitter (X): [@HubertMassoni](https://twitter.com/HubertMassoni)
+- Email: hubert.massoni2@unibo.it
+- Twitter (X): [@HubertMassoni](https://twitter.com/HubertMassoni)
+- [Institutional webpage](https://www.unibo.it/sitoweb/hubert.massoni2) 
