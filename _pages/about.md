@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Bologna, [Department of Economics](https://dse.unibo.it/en/index.html)
+subtitle: University of Bologna, Department of Economics
 
 profile:
   align: right
