@@ -22,6 +22,11 @@ nav_order: 1
 
 <br><font size="-1">[<a href="https://site.unibo.it/smooth/en/agenda/https-www-aere-org-aere-summer-conference/aere_2022_campiglio.pdf/@@download/file/AERE_2022_Campiglio.pdf">slides</a> | latest version]</font>
 
+<p><em>Global Production Networks and Water Depletion</em> (with <a href="https://www.elena-aguilar.net/">E. Aguilar</a> and <a href="https://brunoconteleite.github.io/">B. Conte</a>)
+
+<p><em>Supply Chain Composition and Carbon Pricing: Evidence from the EU ETS</em> (with <a href="https://costerpierre.github.io/">P. Coster</a> and <a href="https://lauriesala.github.io/">L. Esala</a>)
+
+
 <br>
 
 <br>
