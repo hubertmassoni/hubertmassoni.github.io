@@ -14,7 +14,7 @@ nav_order: 1
   
 <br><font size="-1"><u>Abstract</u>: Trade infrastructure, necessary for the smooth and reliable operation of international trade routes, are highly exposed to the increased in frequency and intensity of climate change-related natural disasters. Maritime trade is particularly exposed to such climate disasters, as cyclons, floods, or droughts represent direct threats to the operation of ports. Operational delays in shipping goods abroad can translate into an increase in the cost of trading, thereby hampering the comparative advantage of firms using the infrastructure. A first key purpose of this project is to understand the responses of firms being affected by climate-fueled increases in trade costs. Using high-frequency custom data on firm-to-firm shipments from Mexican exporters, I investigate empirically how climate disasters (floods and cyclons) affect firm-level trading relationships. Using a theoretical model of international firm-to-firm trade, with climate-affected trade costs, an additional objective is to quantify the general equilibrium effects of global value chains recomposition induced by climate damages affecting trade routes.</font>
 
-<br><font size="-1">[coming soon]</font>
+<br><font size="-1">[<a href="https://www.dropbox.com/scl/fi/ts0gw0bpp6hbp4d7tmhlf/JMP_Hubert_Massoni_draft.pdf?rlkey=lltnvvw4uxe5ubfr2ektawqub&st=zo48ce9r&raw=1">preliminary draft</a>]</font>
 
 <p><em>The Network Effects of Carbon Pricing</em> (with <a href="https://sites.google.com/site/ecampiglio/">E. Campiglio</a> and <a href="https://research.wu.ac.at/en/persons/stefan-trsek-3">S. Trsek</a>)
 
