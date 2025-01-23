@@ -25,6 +25,8 @@ I am a 4th year PhD student in Economics at the University of Bologna, under the
 
 My research is about Trade, Climate Change, and Production Networks.
 
+Currently in Barcelona, visiting the Pompeu Fabra University.
+
 <br>
 
 Contact
