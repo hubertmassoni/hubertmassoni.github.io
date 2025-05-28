@@ -33,7 +33,16 @@ nav_order: 1
 
 <p> <b>POLICY WORK</b>
 
-<p>Fostering Cross-border Twin Cities in the Greater Mekong Subregion. (2022) <em>Journal of Mekong Societies, 18(1)</em>, 125–153 (with M. Abe)
+
+<p>Adapting to Climate Change Across Space: Policy Recommendations for Europe. (2025) <em>EconPol Forum</em>, 26 (2), 29-32 (with <a href="https://brunoconteleite.github.io/">B. Conte</a>)
+  
+<br>
+
+<font size="-1">[<a href="https://www.ifo.de/en/econpol/publications/2025/article-journal/adapting-climate-change-across-space-policy-recommendations">published version</a>]</font>
+
+<br>
+
+<p>Fostering Cross-border Twin Cities in the Greater Mekong Subregion. (2022) <em>Journal of Mekong Societies</em>, 18(1), 125–153 (with M. Abe)
   
 <br>
 
