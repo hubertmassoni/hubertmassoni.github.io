@@ -8,7 +8,7 @@ nav_order: 1
 ---
 <div class="projects">
 
-<p> <b>Job Market Paper</b>
+<p> <b>JOB MARKET PAPER</b>
 
 <p><em>Climate Trade Costs: Extreme Weather, Transportation, and Supply Chains in a Warming World</em>
   
@@ -20,7 +20,7 @@ nav_order: 1
 
 <br>
 
-<p> <b>Work in Progress</b>
+<p> <b>WORK IN PROGRESS</b>
 
 <p><em>The Network Effects of Carbon Pricing</em> (with <a href="https://sites.google.com/site/ecampiglio/">E. Campiglio</a> and <a href="https://research.wu.ac.at/en/persons/stefan-trsek-3">S. Trsek</a>)
 
@@ -37,7 +37,7 @@ nav_order: 1
 
 <br>
 
-<p> <b>Policy Work</b>
+<p> <b>POLICY WORK</b>
 
 
 <p>Adapting to Climate Change Across Space: Policy Recommendations for Europe. (2025) <em>EconPol Forum</em>, 26 (2), 29-32 (with <a href="https://brunoconteleite.github.io/">B. Conte</a>)
