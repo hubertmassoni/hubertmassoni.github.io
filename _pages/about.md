@@ -21,15 +21,16 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my academic website! 
 
-I am a 4th year PhD student in Economics at the University of Bologna, under the supervision of Profs. [Emanuele Campiglio](https://sites.google.com/site/ecampiglio/) and [Bruno Conte](https://brunoconteleite.github.io/), and an active member of the [ERC-SMOOTH](https://site.unibo.it/smooth/en) project.
+I am a 4th year PhD student in Economics at the University of Bologna, under the supervision of Profs. [Emanuele Campiglio](https://sites.google.com/site/ecampiglio/) and [Bruno Conte](https://brunoconteleite.github.io/).
 
-My research is about Trade, Climate Change, and Production Networks.
+My research is about Climate Change, Trade, and Production Networks.
 
-Currently in Barcelona, visiting the Pompeu Fabra University.
+I visited the Pompeu Fabra University in 2024 (jan-jun) and 2025 (jan-may).
 
 <br>
 
 Contact
 - Email: hubert.massoni2@unibo.it
 - Twitter (X): [@HubertMassoni](https://twitter.com/HubertMassoni)
+- LinkedIn: [Hubert Massoni](https://www.linkedin.com/in/hubert-massoni-a176baa9/)
 - [Institutional webpage](https://www.unibo.it/sitoweb/hubert.massoni2) 
