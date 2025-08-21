@@ -8,4 +8,4 @@ nav_order: 3
 ---
 <div class="projects">
 
-You can download my cv <a href="https://hubertmassoni.github.io/CV_HM_17042024.pdf">here</a>.
+You can download my cv <a href="https://www.dropbox.com/scl/fi/bqzaes2swdq17xa04v0mi/CV_HM_082025.pdf?rlkey=1xlrc2jt802ytnqumq6unsq37&raw=1">here</a>.
