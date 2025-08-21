@@ -1,11 +1,8 @@
 ---
-layout: page
+title: "CV"
 permalink: /cv/
-title: cv
-description: 
 nav: true
 nav_order: 3
----
-<div class="projects">
 
-You can download my cv <a href="https://www.dropbox.com/scl/fi/bqzaes2swdq17xa04v0mi/CV_HM_082025.pdf?rlkey=1xlrc2jt802ytnqumq6unsq37&raw=1">here</a>.
+redirect_to: https://www.dropbox.com/scl/fi/3b1ib8ctf8icvn6qruqbd/JMP_Massoni.pdf?rlkey=bvn7xv6r4guu6qxav1w420o23&raw=1
+---
