@@ -23,7 +23,7 @@ Welcome to my academic website!
 
 I am a 4th year PhD student in Economics at the University of Bologna, under the supervision of Profs. [Emanuele Campiglio](https://sites.google.com/site/ecampiglio/) and [Bruno Conte](https://brunoconteleite.github.io/).
 
-My research is about Climate Change, Trade, and Production Networks.
+My research is about the Environment, Trade, and Production Networks.
 
 I visited the Pompeu Fabra University in 2024 (jan-jun) and 2025 (jan-may).
 
