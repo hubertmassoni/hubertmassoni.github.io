@@ -12,9 +12,9 @@ nav_order: 1
 
 <p><em>Climate Trade Costs: Extreme Weather, Transportation, and Supply Chains in a Warming World</em>
   
-<br><p align="justify"><font size="-1"><u>Abstract</u>: This paper examines the impact of extreme weather events on global supply chains through disruptions to trade infrastructure in a context of climate change. Leveraging high-frequency administrative data covering the quasi-universe of firm-to-firm maritime shipments from the US and Brazil, I study the impact of tropical cyclones on US port operations and firm-level responses. These weather events temporarily disrupt port activities, prompting firms to reduce trade volumes without significantly terminating relationships. Firms however demonstrate persistent adjustments in route choices, even after ports resume normal operations. To evaluate the general equilibrium implications of these transportation-related weather disruptions, I develop a quantitative model of spatial production networks with endogenous trade costs and traffic congestion. The model serves to quantify spatial reallocation of economic activity induced by increasing climate risks to the transportation network, and the effectiveness of port-level infrastructure policy.</font></p>
+<br><p align="justify"><font size="-1"><u>Abstract</u>: This paper examines the impact of extreme weather events on global supply chains through disruptions to trade infrastructure in the context of climate change. Leveraging high-frequency administrative data covering the universe of Brazilian maritime imports, I study the impact of tropical cyclones on port operations and firm-level responses. These weather events temporarily disrupt port activities, prompting firms to adjust route choices along transportation networks, even after ports resume operations. To evaluate the general equilibrium implications of these transportation-related weather disruptions, I develop a quantitative model of spatial production networks with endogenous trade costs and traffic congestion. The model enables quantification of the spatial reallocation of economic activity caused by increasing climate risk to the transportation network, the role of rerouting as an adaptation margin, and the effectiveness of port-level infrastructure policy.</font></p>
 
-<font size="-1">[new draft coming soon!]</font>
+<font size="-1">[<a https://www.dropbox.com/scl/fi/3b1ib8ctf8icvn6qruqbd/JMP_Massoni.pdf?rlkey=bvn7xv6r4guu6qxav1w420o23&raw=1>latest version</a>]</font>
 
 <br>
 
@@ -27,6 +27,8 @@ nav_order: 1
 <br><p align="justify"><font size="-1"><u>Abstract</u>: We develop a macroeconomic model to study how carbon pricing initiatives could affect the global economy via international production networks. Using sector- and country-specific data, we estimate the impact of three policies: (i) a global uniform tax; (ii) an EU-only tax; and (iii) an EU-only tax combined with a carbon border adjustment mechanism. Our results show that the distribution of tax-induced socioeconomic losses across sectors and countries critically depends on their relative position within global value chains. Negative impacts triggered by demand shocks in downstream sectors (and propagating upstream) appear to be stronger than that of direct taxation. We also find carbon pricing policies to reconfigure the structure of the international production network, with some countries/sectors becoming more marginal and others more central. Marginalisation on the intermediate input market is salient for countries imposing unilateral carbon policies.</font></p>
 
 <font size="-1">[<a href="https://site.unibo.it/smooth/en/agenda/https-www-aere-org-aere-summer-conference/aere_2022_campiglio.pdf/@@download/file/AERE_2022_Campiglio.pdf">slides</a> | latest version]</font>
+
+<br>
 
 <br>
 
