@@ -16,7 +16,7 @@ nav_order: 1
 
 <font size="-1">[<a href="https://www.dropbox.com/scl/fi/3b1ib8ctf8icvn6qruqbd/JMP_Massoni.pdf?rlkey=bvn7xv6r4guu6qxav1w420o23&raw=1">latest version</a>]</font>
 
-<ins>Awards</ins>: <a href="https://hubertmassoni.github.io/award_GEP_nottingham.pdf">Best Paper at the 23rd GEP Annual Postgraduate Conference 2025</a>.
+<ins>Awards</ins>: <a href="https://hubertmassoni.github.io/award_GEP_nottingham.pdf">Best Paper at the 23rd GEP Annual Postgraduate Conference 2025</a>
 
 <br>
 
