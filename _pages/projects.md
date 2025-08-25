@@ -14,9 +14,9 @@ nav_order: 1
   
 <br><p align="justify"><font size="-1"><u>Abstract</u>: This paper examines the impact of extreme weather events on global supply chains through disruptions to trade infrastructure in the context of climate change. Leveraging high-frequency administrative data covering the universe of Brazilian maritime imports, I study the impact of tropical cyclones on port operations and firm-level responses. These weather events temporarily disrupt port activities, prompting firms to adjust route choices along transportation networks, even after ports resume operations. To evaluate the general equilibrium implications of these transportation-related weather disruptions, I develop a quantitative model of spatial production networks with endogenous trade costs and traffic congestion. The model enables quantification of the spatial reallocation of economic activity caused by increasing climate risk to the transportation network, the role of rerouting as an adaptation margin, and the effectiveness of port-level infrastructure policy.</font></p>
 
-<font size="-1">[<a href="https://www.dropbox.com/scl/fi/3b1ib8ctf8icvn6qruqbd/JMP_Massoni.pdf?rlkey=bvn7xv6r4guu6qxav1w420o23&raw=1">latest version</a>]</font>
+<font size="-1">[<a href="https://www.dropbox.com/scl/fi/3b1ib8ctf8icvn6qruqbd/JMP_Massoni.pdf?rlkey=bvn7xv6r4guu6qxav1w420o23&raw=1">latest version</a>] | <ins>Awards</ins>: <a href="https://hubertmassoni.github.io/_pages/award_GEP_nottingham.pdf">Best Paper at the 23rd GEP Annual Postgraduate Conference 2025</a></font>
 
-<ins>Awards</ins>: <a href="https://hubertmassoni.github.io/award_GEP_nottingham.pdf">Best Paper at the 23rd GEP Annual Postgraduate Conference 2025</a>
+
 
 <br>
 
