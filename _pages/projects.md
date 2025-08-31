@@ -10,7 +10,7 @@ nav_order: 1
 
 <p> <b>JOB MARKET PAPER</b>
 
-<p><em>Climate Trade Costs: Extreme Weather, Transportation, and Supply Chains in a Warming World</em>
+<p><em>Climate Trade Costs: Extreme Weather, Transportation, and Supply Chains</em>
   
 <br><p align="justify"><font size="-1"><u>Abstract</u>: This paper examines the impact of extreme weather events on global supply chains through disruptions to trade infrastructure in the context of climate change. Leveraging high-frequency administrative data covering the universe of Brazilian maritime imports, I study the impact of tropical cyclones on port operations and firm-level responses. These weather events temporarily disrupt port activities, prompting firms to adjust route choices along transportation networks, even after ports resume operations. To evaluate the general equilibrium implications of these transportation-related weather disruptions, I develop a quantitative model of spatial production networks with endogenous trade costs and traffic congestion. The model enables quantification of the spatial reallocation of economic activity caused by increasing climate risk to the transportation network, the role of rerouting as an adaptation margin, and the effectiveness of port-level infrastructure policy.</font></p>
 
