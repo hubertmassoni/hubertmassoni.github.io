@@ -33,7 +33,7 @@ nav_order: 1
 
 <br>
 
-<p><em>Global Production Networks and Water Depletion</em> (with <a href="https://www.elena-aguilar.net/">E. Aguilar</a> and <a href="https://brunoconteleite.github.io/">B. Conte</a>)
+<p><em>Global Production Networks and Water Depletion</em> (with <a href="https://brunoconteleite.github.io/">B. Conte</a>)
 
 <p><em>Supply Chain Composition and Carbon Pricing: Evidence from the EU ETS</em> (with <a href="https://costerpierre.github.io/">P. Coster</a> and <a href="https://lauriesala.github.io/">L. Esala</a>)
 
