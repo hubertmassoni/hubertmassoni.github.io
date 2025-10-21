@@ -27,7 +27,7 @@ In my research, I study questions in **environmental** and **climate change** ec
 
 I visited the Pompeu Fabra University in 2024 (jan-jun) and 2025 (jan-may).
 
-You can download my CV <a href="https://www.dropbox.com/scl/fi/bqzaes2swdq17xa04v0mi/CV_HM_082025.pdf?rlkey=1xlrc2jt802ytnqumq6unsq37&raw=1">here</a>.
+You can download my CV <a href="https://www.dropbox.com/scl/fi/1jgswvh36j7ot7v4zhzjv/CV_HM_20251020.pdf?rlkey=9sts1jka2bgzpogxznhcsy630&raw=1">here</a>.
 <br>
 
 **I am currently on the Job Market 2025-2026.**
