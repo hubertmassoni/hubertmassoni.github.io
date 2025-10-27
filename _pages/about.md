@@ -6,7 +6,7 @@ subtitle: University of Bologna, Department of Economics
 
 profile:
   align: right
-  image: photo_HM.jpgg
+  image: photo_HM.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 143,</p>
