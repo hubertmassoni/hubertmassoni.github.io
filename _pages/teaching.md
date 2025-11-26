@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 <div class="projects">
 
@@ -13,6 +13,8 @@ nav_order: 2
 <p><em>Climate Macroeconomics and Finance</em> - University of Bologna - TA with Prof. Emanuele Campiglio (20h)
 <p><em>Climate Policy and Commodity Markets</em> - University of Bologna - TA with Prof. Niko Jaakkola (20h)
 <p><em>Economics of Conflict</em> - Johns Hopkins University (SAIS) - TA with Prof. Tommaso Sonno (30h)
+
+<br>
 
 <br>
 
