@@ -10,7 +10,7 @@ nav_order: 1
 
 <p> <b>JOB MARKET PAPER</b>
 
-<p><em>Climate Trade Costs: Extreme Weather, Transportation, and Supply Chains</em>
+<p><em><a href="https://hubertmassoni.github.io/JMP_Massoni.pdf">Climate Trade Costs: Extreme Weather, Transportation, and Supply Chains</a></em>
   
 <br><p align="justify"><font size="-1"><u>Abstract</u>: Transportation infrastructure is vulnerable to extreme weather events. Vulnerability is prominent at maritime ports, where tropical cyclones frequently halt operations and force firms to adapt to transportation disruptions. I quantify these responses by linking high-frequency maritime shipment data to tropical cyclone tracks. Exposure to tropical cyclones temporarily disrupts port activities (\(\approx\)1–2 weeks), prompting firms to adjust route choices along transportation networks (rerouting), even after ports resume operations (\(\approx\)2–6 months). To evaluate the general equilibrium implications of these weather disruptions, I develop a quantitative model of spatial production networks with endogenous routing. Structural estimation reveals that maritime transportation costs decrease with port capacity (scale), but increase with port traffic (congestion) and cyclone risk. Investigating future climate hazards to the transportation network, I find that rerouting is a key adaptation mechanism that prevents global welfare losses. To translate evidence into policy, I derive model-based sufficient statistics for evaluating and targeting future port investments in light of climate change. Allocation rules that ignore weather risk and firms’ adaptive responses systematically misallocate investment.</font></p>
 
