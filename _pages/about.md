@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Bologna, Department of Economics
+subtitle: ifo Institute & LMU Munich
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 143,</p>
-    <p>Piazza Scaravilli 2</p>
-    <p>Bologna (BO), Italy</p>
+    <p>Poschingerstr. 5 </p>
+    <p>Munich, Germany</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,19 +21,15 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my academic website! 
 
-I am a PhD Candidate in Economics at the University of Bologna, under the supervision of Profs. [Emanuele Campiglio](https://sites.google.com/site/ecampiglio/) and [Bruno Conte](https://brunoconteleite.github.io/).
+I am an Assistant Professor (non-tenured) at the <a href="https://www.ifo.de/en/ifo-homepage">ifo Institute</a> and the <a href="https://www.lmu.de/en/">LMU Munich</a>. 
 
 In my research, I study questions in **environmental** and **climate change** economics, using tools from **economic geography**, **trade**, and **production networks**.
-
-I visited the Pompeu Fabra University in 2024 (jan-jun) and 2025 (jan-may).
 
 You can download my CV <a href="https://hubertmassoni.github.io/CV_Massoni_202511.pdf">here</a>.
 <br>
 
-**I am currently on the Job Market 2025-2026.**
-
 Contact
-- Email: hubert.massoni2@unibo.it
+- Email: massoni@ifo.de
 - Twitter (X): [@HubertMassoni](https://twitter.com/HubertMassoni)
 - LinkedIn: [Hubert Massoni](https://www.linkedin.com/in/hubert-massoni-a176baa9/)
-- [Institutional webpage](https://www.unibo.it/sitoweb/hubert.massoni2)
+- [Institutional webpage](https://www.ifo.de/massoni-h)
