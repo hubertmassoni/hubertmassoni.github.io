@@ -26,6 +26,11 @@ nav_order: 1
 
 <p> <b>WORK IN PROGRESS</b>
 
+<p><em>The Economics of the Global Water Cycle: An Integrated Assessment Model</em> (with <a href="https://brunoconteleite.github.io/">B. Conte</a> and <a href="https://www.faridfarrokhi.com/">F. Farrokhi</a>)
+
+<br><p align="justify"><font size="-1"><u>Abstract</u>: Economic water use generates dual global externalities: local extraction reduces downwind precipitation through the atmospheric water cycle, while international trade spatially propagates these hydrological shocks through the factor content of traded goods. To analyze these joint mechanisms, we build a dynamic spatial model integrated with a hydrological module -- to our knowledge, the first spatial integrated assessment model of the global water cycle. We also characterize the optimal policy within this high-dimensional framework, deriving a location-specific Pigouvian water tax equal to the local Social Cost of Water. Quantifying the model with global economic and hydrological data, we evaluate the welfare losses from uncoordinated extraction, simulate counterfactual policy regimes for the 21st century, and provide the first worldwide estimates of the Social Cost of Water.</font></p>
+
+
 <p><em>The Network Effects of Carbon Pricing</em> (with <a href="https://sites.google.com/site/ecampiglio/">E. Campiglio</a> and <a href="https://research.wu.ac.at/en/persons/stefan-trsek-3">S. Trsek</a>)
 
 <br><p align="justify"><font size="-1"><u>Abstract</u>: We develop a macroeconomic model to study how carbon pricing initiatives could affect the global economy via international production networks. Using sector- and country-specific data, we estimate the impact of three policies: (i) a global uniform tax; (ii) an EU-only tax; and (iii) an EU-only tax combined with a carbon border adjustment mechanism. Our results show that the distribution of tax-induced socioeconomic losses across sectors and countries critically depends on their relative position within global value chains. Negative impacts triggered by demand shocks in downstream sectors (and propagating upstream) appear to be stronger than that of direct taxation. We also find carbon pricing policies to reconfigure the structure of the international production network, with some countries/sectors becoming more marginal and others more central. Marginalisation on the intermediate input market is salient for countries imposing unilateral carbon policies.</font></p>
@@ -35,9 +40,7 @@ nav_order: 1
 
 <br>
 
-<p><em>Global Production Networks and Water Depletion</em> (with <a href="https://brunoconteleite.github.io/">B. Conte</a>)
-
-<p><em>Supply Chain Composition and Carbon Pricing: Evidence from the EU ETS</em> (with <a href="https://costerpierre.github.io/">P. Coster</a> and <a href="https://lauriesala.github.io/">L. Esala</a>)
+<p><em>The Environmental Costs of Transportation Infrastructure</em> (with <a href="https://costerpierre.github.io/">P. Coster</a> and <a href="https://lauriesala.github.io/">L. Esala</a>)
 
 
 <br>
