@@ -8,7 +8,7 @@ nav_order: 1
 ---
 <div class="projects">
 
-<p> <b>JOB MARKET PAPER</b>
+<p> <b>WORKING PAPERS</b>
 
 <p><em><a href="https://www.cepremap.fr/depot/docweb/docweb2602.pdf">Climate Trade Costs: Extreme Weather, Transportation, and Supply Chains</a></em>
   
