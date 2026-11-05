@@ -30,6 +30,9 @@ nav_order: 1
 
 <br><p align="justify"><font size="-1"><u>Abstract</u>: Economic water use generates dual global externalities: local extraction reduces downwind precipitation through the atmospheric water cycle, while international trade spatially propagates these hydrological shocks through the factor content of traded goods. To analyze these joint mechanisms, we build a dynamic spatial model integrated with a hydrological module -- to our knowledge, the first spatial integrated assessment model of the global water cycle. We also characterize the optimal policy within this high-dimensional framework, deriving a location-specific Pigouvian water tax equal to the local Social Cost of Water. Quantifying the model with global economic and hydrological data, we evaluate the welfare losses from uncoordinated extraction, simulate counterfactual policy regimes for the 21st century, and provide the first worldwide estimates of the Social Cost of Water.</font></p>
 
+<br>
+
+<br>
 
 <p><em>The Network Effects of Carbon Pricing</em> (with <a href="https://sites.google.com/site/ecampiglio/">E. Campiglio</a> and <a href="https://research.wu.ac.at/en/persons/stefan-trsek-3">S. Trsek</a>)
 
